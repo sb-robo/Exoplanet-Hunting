@@ -1,4 +1,4 @@
-# The Search for New Earths
+## The Search for New Earths
 
 The data describe the change in flux (light intensity) of several thousand stars. Each star has a binary label of `2` or `1`. `2` indicated that that the star is confirmed to have at least one exoplanet in orbit; some observations are in fact multi-planet systems.
 
