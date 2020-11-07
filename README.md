@@ -12,3 +12,5 @@ As you can imagine, planets themselves do not emit light, but the stars that the
 - Seaborn
 - SkLearn
 - Keras
+- Python 3.x
+- Jupyter notebook
